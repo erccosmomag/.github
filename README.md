@@ -1,1 +1,1 @@
-# .github
+# ERC Synergy project COSMOMAG
